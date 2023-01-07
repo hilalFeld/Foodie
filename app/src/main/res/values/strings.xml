@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Foodie</string>
+
+    <string name="Patty">
+        All burger patties should be made up of ground beef - 80% lean and 20% fat. Season the patties only with salt and bp while on the oven
+    </string>
+    <string name="big_mac">
+        Sauce Ingredients:\n 3 tbsp. mayonnaise 3 tbsp. shallots, finely diced\n 3 tbsp. dill pickles, finely diced \n 3 tbsp.
+        tomato ketchup \n 1 tbsp. Dijon mustard  \n 1/2 tsp. onion powder\n 1/2 tsp. garlic powder\n
+        1/2 tsp. sweet paprika \n 1 tsp. white wine vinegar \n
+    </string>
+
+</resources>
