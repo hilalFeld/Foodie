@@ -22,7 +22,7 @@
         android:id="@+id/BurgerDescription"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:text="Add Description"
         android:textSize="16dp"
         android:textStyle="bold"

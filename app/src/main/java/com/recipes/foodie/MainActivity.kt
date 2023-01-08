@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         )
 
         ingredients = arrayOf(
-            "Enter name"
+            "Burgers"
         )
 
         newRecyclerView1 = findViewById(R.id.TypesOfFood)

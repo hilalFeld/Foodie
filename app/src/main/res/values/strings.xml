@@ -2,12 +2,111 @@
     <string name="app_name">Foodie</string>
 
     <string name="Patty">
-        All burger patties should be made up of ground beef - 80% lean and 20% fat. Season the patties only with salt and bp while on the oven
+
+        \nPs: \nWhile heating oil make sure it does not overheat. \n\nIn the following recipes,
+        beef patties are well done cooked. For a juicier patty, cook a medium rare one.
+
     </string>
     <string name="big_mac">
-        Sauce Ingredients:\n 3 tbsp. mayonnaise 3 tbsp. shallots, finely diced\n 3 tbsp. dill pickles, finely diced \n 3 tbsp.
-        tomato ketchup \n 1 tbsp. Dijon mustard  \n 1/2 tsp. onion powder\n 1/2 tsp. garlic powder\n
-        1/2 tsp. sweet paprika \n 1 tsp. white wine vinegar \n
+
+        Ingredients: \n\n1 brioche bun \n180 grams ground beef 80% lean and 20% fat \n2 cheddar processed cheese slices \n1
+        handful of shredded iceberg lettuce \n3 rounded pickle slices \n1 teaspoon diced onions \n2 tablespoons mayo \n2 teaspoons
+        ketchup \n1 teaspoon mustard \n2 teaspoons finely diced dill pickles \n1/2 teaspoon sweet paprika \n1/2 teaspoon onion
+        powder \n1/2 teaspoon garlic powder \n1 teaspoon white vinegar \n\nInstructions: \n\nStep 1: \n\nSauce: In a bowl, mix
+        mayo, ketchup, mustard, diced pickles, sweet paprika, onion powder, garlic powder, and white vinegar. \n\nStep 2: \n\nHeat
+        a pan. Cut the bun into 3 parts. First cut in half then cut the top part into 2 equal parts. Lay the cut side down in the
+        pan (lay the middle part on both sides) and cook until lightly toasted, 30 seconds to 1 minute. \n\nStep 3: \n\nMake 2
+        meat balls 90 grams each and shape the patties. Add oil to the pan and heat well. Cook patties, turning once with
+        seasoning each side with salt and black pepper, until browned on both sides and no longer pink inside, 7 to 8 minutes
+        total. Remove from pan. \n\nStep 4: \n\nSpread sauce on bottom bun. Add 1/2 teaspoon of diced onions, some shredded
+        iceberg, cheese slice, patty, middle part of the bun, spread sauce on its top, the remaining diced onions, pickle
+        slices, some shredded iceberg, second cheese slice, and finally the second patty. Spread sauce on top bun and set in
+        place.
+
+    </string>
+
+    <string name="cheeseburger">
+
+        Ingredients: \n\n1 brioche bun \n140 grams ground beef 80% lean and 20% fat \n2 cheddar processed cheese slices \n1
+        tablespoon ketchup \n3/4 tablespoon mayo \n1/4 tablespoon mustard \n1/4 teaspoon hot sauce (optional) \n1/2 teaspoon
+        onion powder \n1/2 teaspoon garlic powder \n1/8 teaspoon salt \n\nInstructions: \n\nStep 1: \n\nSauce: In a bowl,
+        mix ketchup, mayo, mustard, onion powder, garlic powder, salt, and hot sauce. \n\nStep 2: \n\nHeat a pan. Cut the bun
+        and lay the cut side down in the pan and cook until lightly toasted, 30 seconds to 1 minute. \n\nStep 3: \n\nForm 2 meat
+        balls 70 grams each. Add oil to the pan and heat well. Lay the meat balls in the pan and smash them. Season the upside of
+        the smashed balls with salt and black pepper. Cook until browned, flip and season again the cooked side. Top each patty
+        with a cheese slice. After melting, add one patty on the other and remove from pan. \n\nStep 4: \n\nSpread sauce on
+        bottom bun. Add the smashed patties. Spread sauce on top bun and set in place.
+
+    </string>
+
+    <string name="cheesy_caramelized">
+
+        Ingredients: \n\n1 brioche bun \n500 -> 700 grams onions \n50 ml olive oil \n2 teaspoons salt \n120 grams ground beef
+        80% lean and 20% fat \n2 bacon slices \n1 cheddar processed cheese slice \n1 tablespoon butter \n1 tablespoon
+        flour (zero) \n1/4 cup hot milk \n1/8 teaspoon salt \n1/8 teaspoon black pepper \n\nInstructions: \n\nStep
+        1: \n\nSlice the onions into wings. Add olive oil to a pan (preferrable a stainless-steel pan) and wait until heated
+        well then add the onions. Add 2 teaspoons salt mix and set heat to high. Check on them periodically, whenever the
+        onions in the bottom are brown, stir all of them to get white ones to the bottom. Repeat this step to have all onions
+        become brown (15-20 min). If onions are becoming black not brown, lower the heat a bit.  Finally set the heat to low
+        and cover for 20-30 minutes. Stir every 3 minutes. \n\nStep 2: \n\nHeat a pan, add butter, and wait until it melts then
+        add flour and stir well until flour become light brown. Add milk and stir until boiling. Add 1/8 teaspoon salt and 1/8
+        teaspoon black pepper. Mix well and leave for10 min on medium heat. \n\nStep 3: \n\nHeat a pan. Cut the bun and lay the
+        cut side down in the pan and cook until lightly toasted, 30 seconds to 1 minute. \n\nStep 4: \n\nIn a pan, cook the
+        bacon. \n\nStep 5: \n\nMake a meat ball of 120 grams and shape the patty. Add oil to the pan and heat well. Cook patty,
+        turning once with seasoning each side with salt and black pepper, until browned on both sides and no longer pink inside,
+        7 to 8 minutes total then add cheese slice on top of the patty. Remove from pan. \n\nStep 6: \n\nSpread sauce on the
+        bottom bun. Add caramelized onions, patty, bacon and sauce on top. Set bun top in place.
+
+    </string>
+
+    <string name="buttermilk_chicken_burger">
+
+        Ingredients: \n\n1 brioche bun \n3/4 cup milk \n1 lemon \n1 tablespoon salt \n1/4 teaspoon black pepper \n1/4 teaspoon
+        onion powder \n1/4 teaspoon garlic powder \n1 chicken breast \n2 tablespoons honey \n1.5 tablespoons butter \n8
+        tablespoons flour \n1.5 teaspoon starch \n1 tablespoon mayo \n\nInstructions: \n\nStep 1: \n\nButtermilk: In a bowl,
+        squeeze lemon and add milk then mix. Leave for 10 minutes. Add salt, black pepper, onion powder, and garlic powder.
+        Cut the chicken breast in half and add both parts to the buttermilk. Leave for minimum 1 hour in fridge after covering
+        with cling film (preferably more time). \n\nStep 2: \n\nCut the chicken breast in half and add both parts to the
+        buttermilk. Leave for minimum 1 hour in fridge after covering with cling film (preferably more time). \n\nStep
+        3: \n\nIn a bowl add flour, pinch of salt, and starch. Mix well. \n\nStep 4: \n\nSauce: In a pan, add honey. Add 1
+        teaspoon of water if the honey is thick. Cook on high heat until boiling and a change in color to light brown. Add 1
+        tablespoon water, mix quickly to cool the mixture. Add butter until it melts then mix for 30 seconds and turn off the
+        heat. Add to a cup to cool down. \n\nStep 5: \n\nHeat a pan. Cut the bun and lay the cut side down in the pan and cook
+        until lightly toasted, 30 seconds to 1 minute. \n\nStep 6: \n\nTake out the breast and cover it with flour. Tap excess
+        flour out of the breast and return to the buttermilk. Put it back into flour. Ready to fry. \n\nStep 7: \n\nIn a frier,
+        add oil and heat well to have hot oil. Add the breast and lower the heat a little. After taking it out, add honey sauce
+        all over the fried chicken. \n\nStep 8: \n\nSpread mayo on the bottom bun. Add both fried chicken breasts, shredded
+        iceberg, and pickles. Set bun top in place.
+
+    </string>
+
+    <string name="crispy_chicken_burger">
+
+        Ingredients: \n\n1 brioche bun \n2 lettuce leaves \n2 fresh onions - ring shaped \n1 tomato slice \n1/2 cup milk \n1/2
+        lemon \n1 tablespoon salt \n1/4 teaspoon black pepper \n1/4 teaspoon onion powder \n1/4 teaspoon garlic powder \n1/8
+        teaspoon cumin \n1/8 teaspoon cinnamon \n1/8 teaspoon curry \n1/4 teaspoon paprika \n1/2 chicken breast \n5 tablespoons
+        flour \n1 teaspoon starch \n1 tablespoon ketchup \n1/4 tablespoon mayo \n1/4 tablespoon mustard \n1/4 teaspoon hot sauce
+        (optional) \n1/2 teaspoon onion powder \n1/2 teaspoon garlic powder \n1/4 teaspoon salt \n\nInstructions: \n\nStep 1: \n\nButtermilk:
+        In a bowl, squeeze lemon and milk. Leave for 10 minutes. Add salt, black pepper, onion powder, garlic powder, cumin,
+        cinnamon, paprika, and curry. \n\nStep 2: \n\nAdd the chicken breast to the buttermilk. Leave for minimum 1 hour in
+        fridge after covering with cling film (preferably more time). \n\nStep 3: \n\nIn a bowl, mix ketchup, mayo, mustard,
+        onion powder, garlic powder, salt, and hot sauce. \n\nStep 4: \n\nIn a bowl add flour, pinch of salt, and starch.
+        Mix well. \n\nStep 5: \n\nHeat a pan. Cut the bun and lay the cut side down in the pan and cook until lightly toasted,
+        30 seconds to 1 minute. \n\nStep 6: \n\nTake out the breast and cover it with flour. Tap excess flour out of the breast
+        and return to the buttermilk. Put it back into flour. Ready to fry. \n\nStep 7: \n\nIn a frier, add oil and heat well to
+        have hot oil. Add the breast and lower the heat a little. Remove when fried well. \n\nStep 8: \n\nSpread sauce on the bottom
+        bun. Add lettuce leaf, onion, chicken breast, tomato, onion, and lettuce. Spread sauce on top bun and set in place.
+
+    </string>
+
+    <string name="pizza_burger">
+
+        Ingredients: \n\n1 brioche bun \nPizza sauce \n1 teaspoon olive oil \n100 grams ground sausage \n80 grams
+        mozzarella \nPepperoni 3-4 slices \n\nInstructions: \n\nStep 1: \n\nHeat a pan. Cut the bun and lay the cut side
+        down in the pan and cook until lightly toasted, 30 seconds to 1 minute. \n\nStep 2: \n\nAdd oil to a pan and cook
+        sausages. \n\nStep 3: \n\nSpread pizza sauce on bottom bun. Add sausage, cheese, and pepperoni. Put in the
+        microwave. Spread pizza sauce on top bun and set in place.
+
     </string>
 
 </resources>

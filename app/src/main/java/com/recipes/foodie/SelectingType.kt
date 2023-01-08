@@ -3,8 +3,6 @@ package com.recipes.foodie
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.preference.PreferenceActivity.Header
-import android.widget.HeaderViewListAdapter
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -25,37 +23,28 @@ class SelectingType : AppCompatActivity() {
             R.drawable.bigmac,
             R.drawable.cheeseburger,
             R.drawable.cheesycaramelised,
-            R.drawable.chickenbarbecue,
+            R.drawable.buttermilkchickenburger,
             R.drawable.crispychickenburger,
             R.drawable.pizzaburger
 
         )
 
         ingredients = arrayOf(
-            "Enter ingredients",
-            "Enter ingredients",
-            "Enter ingredients",
-            "Enter ingredients",
-            "Enter ingredients",
-            "Enter ingredients"
+            "Big M",
+            "Cheeseburger",
+            "Cheesy Caramelized",
+            "Buttermilk Chicken Burger",
+            "Crispy Chicken Burger",
+            "Pizza Burger"
         )
 
         burger = arrayOf(
-            "Sauce Ingredients:\n" +
-            "3 tbsp. mayonnaise \n" +
-                    "3 tbsp. shallots, finely diced\n" +
-                    "3 tbsp. dill pickles, finely diced \n" +
-                    "3 tbsp. tomato ketchup \n" +
-                    "1 tbsp. Dijon mustard  \n" +
-                    "1/2 tsp. onion powder\n" +
-                    "1/2 tsp. garlic powder\n" +
-                    "1/2 tsp. sweet paprika \n" +
-                    "1 tsp. white wine vinegar ",
-            "Here is the way to cook",
-            "Here is the way to cook",
-            "Here is the way to cook",
-            "Here is the way to cook",
-            "Here is the way to cook"
+            getString(R.string.big_mac),
+            getString(R.string.cheeseburger),
+            getString(R.string.cheesy_caramelized),
+            getString(R.string.buttermilk_chicken_burger),
+            getString(R.string.crispy_chicken_burger),
+            getString(R.string.pizza_burger)
         )
 
         newRecyclerView = findViewById(R.id.TypesOfBurgers)
