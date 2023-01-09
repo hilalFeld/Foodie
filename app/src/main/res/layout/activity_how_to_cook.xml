@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/teal_700"
     tools:context=".SelectingType">
 
     <TextView
@@ -14,7 +15,7 @@
         android:elevation="16dp"
         android:padding="16dp"
         android:text="Burger Name"
-        android:textColor="@color/white"
+        android:textColor="@color/orange2"
         android:textSize="26dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/Scrollable"
@@ -48,27 +49,27 @@
         app:layout_constraintVertical_bias="0.0"
         tools:ignore="NotSibling">
 
+      <!--  <TextView
+            android:id="@+id/Header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="16dp"
+            android:padding="16dp"
+            android:text="Burger Name"
+            android:textColor="@color/underline"
+            android:textSize="26dp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/Scrollable"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="NotSibling"/>-->
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-      <!--      <TextView
-                android:id="@+id/Header"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:elevation="16dp"
-                android:padding="16dp"
-                android:text="Burger Name"
-                android:textAlignment="center"
-                android:textColor="@color/white"
-                android:textSize="26dp"
-                android:textStyle="bold"
-                app:layout_constraintBottom_toTopOf="@+id/BurgerImage"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="@+id/Scrollable"
-                tools:ignore="NotSibling" />-->
 
             <ImageView
                 android:layout_width="match_parent"
@@ -84,7 +85,8 @@
                 android:id="@+id/TextOfCooking"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:textSize="16sp"
+                android:textSize="18sp"
+                android:textColor="@color/orange2"
                 app:layout_constraintBottom_toBottomOf="@+id/Scrollable"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
