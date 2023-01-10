@@ -20,8 +20,8 @@ class MyAdapterFood(private val foodList : ArrayList<FoodType>) : RecyclerView.A
 
         mListener = listener
     }
-
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
+//create instances of a ViewHolder , including working with the ViewHolder to set up the widgets
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder { // when views are first time created, this function will create the layout
 
         val itemView = LayoutInflater.from(parent.context).inflate(R.layout.list_item, parent, false)
         return MyViewHolder(itemView, mListener)
@@ -31,7 +31,7 @@ class MyAdapterFood(private val foodList : ArrayList<FoodType>) : RecyclerView.A
         return foodList.size // the adapter will know how many items are there in the recyclerView - the size of the ArrayList
     }
 
-    class MyViewHolder(itemView: View, listener: onItemClickListener) : RecyclerView.ViewHolder(itemView){
+    class MyViewHolder(itemView: View, listener: onItemClickListener) : RecyclerView.ViewHolder(itemView){ // refer to the items in the view of the recycler view
 
         val foodImage : ShapeableImageView = itemView.findViewById(R.id.BurgerImage)
         val foodName : TextView = itemView.findViewById(R.id.BurgerDescription)
@@ -48,7 +48,7 @@ class MyAdapterFood(private val foodList : ArrayList<FoodType>) : RecyclerView.A
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
         val currentItem = foodList[position]
-        holder.foodImage.setImageResource(currentItem.FoodType)
+        holder.foodImage.setImageResource(currentItem.FoodImage)
         holder.foodName.text = currentItem.FoodName
     }
 

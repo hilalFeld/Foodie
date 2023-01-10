@@ -1,3 +1,3 @@
 package com.recipes.foodie
 
-data class FoodType(var FoodType : Int, var FoodName : String)
+data class FoodType(var FoodImage : Int, var FoodName : String)
