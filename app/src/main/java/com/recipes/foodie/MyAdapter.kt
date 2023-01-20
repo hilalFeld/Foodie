@@ -21,13 +21,13 @@ class MyAdapter(private val burgerList : ArrayList<Burger>) : RecyclerView.Adapt
         mListener = listener
     }
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder { // onCreateViewHolder is called when you need a new View
 
         val itemView = LayoutInflater.from(parent.context).inflate(R.layout.list_item, parent, false)
         return MyViewHolder(itemView, mListener)
     }
 
-    override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: MyViewHolder, position: Int) { // if there is an available Recycled View that can be provided and be bound with new data, then onBindViewHolder is called
 
         val currentItem = burgerList[position]
         holder.burgerImage.setImageResource(currentItem.BurgerType)
@@ -35,7 +35,7 @@ class MyAdapter(private val burgerList : ArrayList<Burger>) : RecyclerView.Adapt
     }
 
     override fun getItemCount(): Int {
-        return burgerList.size // the adapter will know how many items are there in the recyclerView - the size of the ArrayList
+return        return burgerList.size // the adapter will know how many items are there in the recyclerView - the size of the ArrayList
     }
 
     class MyViewHolder(itemView: View, listener:onItemClickListener) : RecyclerView.ViewHolder(itemView){

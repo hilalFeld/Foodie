@@ -7,18 +7,6 @@
     android:background="@color/orange2"
     tools:context=".SelectingType">
 
-    <!--<&lt;!&ndash;TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textColor="@color/white"
-        android:text="@string/Patty"
-        app:layout_constraintBottom_toTopOf="@+id/TypesOfBurgers"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:background="@color/orange"
-        app:layout_constraintTop_toTopOf="parent"
-        android:id="@+id/Patty"/>&ndash;&gt;-->
-
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/TypesOfBurgers"
@@ -29,15 +17,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:listitem="@layout/list_item"/>
-    <!--app:layout_constraintTop_toBottomOf="@+id/Patty"-->
-    <!--android:layout_marginStart="8dp"
-    android:layout_marginTop="8dp"
-    android:layout_marginEnd="8dp"
-    android:layout_marginBottom="8dp"
-    app:layout_constraintBottom_toBottomOf="parent"
-    app:layout_constraintEnd_toEndOf="parent"
-    app:layout_constraintStart_toStartOf="parent"
-    app:layout_constraintTop_toTopOf="parent"-->
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

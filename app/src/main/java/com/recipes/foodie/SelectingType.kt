@@ -59,8 +59,8 @@ class SelectingType : AppCompatActivity() {
 
         for(index in imageId.indices) {
 
-            val burger = Burger(imageId[index], ingredients[index])
-            newArrayList.add(burger)
+            val itemview = Burger(imageId[index], ingredients[index])
+            newArrayList.add(itemview)
         }
 
         var adapter = MyAdapter(newArrayList)
